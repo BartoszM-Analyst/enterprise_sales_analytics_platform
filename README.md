@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="file_000000004200720a9898669b2bacda96" src="https://github.com/user-attachments/assets/cecc08da-3f3d-42f7-b240-0425f5d858d1" />
 
 # 🚀 End-to-End Sales Analytics Platform  
 ### From Raw Data to Executive Dashboard (Databricks + Delta Lake + Power BI)
